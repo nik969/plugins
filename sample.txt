@@ -1,3 +1,7 @@
 first commit in master
 
+
 change via branch2
+
+changed in master after branch2 creation.
+
